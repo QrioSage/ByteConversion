@@ -1,0 +1,23 @@
+{
+  "name": "byteconverter",
+  "version": "1.0.0",
+  "description": "Converts different units of Bytes. Currently, supported units are Bytes, KB, MB, GB, TB, PB, EB, ZB, YB.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QrioSage/ByteConverter.git"
+  },
+  "keywords": [
+    "byte",
+    "conversion"
+  ],
+  "author": "QrioSage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QrioSage/ByteConverter/issues"
+  },
+  "homepage": "https://github.com/QrioSage/ByteConverter#readme"
+}
