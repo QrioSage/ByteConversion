@@ -1,6 +1,6 @@
 {
-  "name": "byteconverter",
-  "version": "1.0.0",
+  "name": "@solrey/byteconverter",
+  "version": "0.0.1",
   "description": "Converts different units of Bytes. Currently, supported units are Bytes, KB, MB, GB, TB, PB, EB, ZB, YB.",
   "main": "lib/index.js",
   "scripts": {
